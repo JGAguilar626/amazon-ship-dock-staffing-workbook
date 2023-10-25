@@ -5,7 +5,7 @@ This project consists of a Microsoft Excel workbook that can be used by Amazon F
 ## Project Description
 This project consists of an Excel (.xlsx) workbook with 4 worksheets.
 
-**MainBoard**: This worksheet is the digital version of a real-life whiteboard-on-wheels that PAs use when giving associates their work area and role for the day. The physical whiteboard is used along with laminated, magnetic badges that each correspond to a specific associate. These badges are placed on a specific and clearly marked section of the whiteboard, depending on the area/role assigned. In this worksheet's digital staffing board, the user simply inputs associates' logins instead.
+**MainBoard**: This worksheet is the digital version of a real-life whiteboard-on-wheels that PAs use when assigning associates to their work area and role for the day. The physical whiteboard is used along with laminated, magnetic badges that each correspond to a specific associate. These badges are placed on a specific and clearly marked section of the whiteboard, depending on the area/role assigned. In this worksheet's digital staffing board, the user simply inputs associates' logins instead.
 
 **TotalsBoard**: This worksheet calculates and displays the number of associates staffed per department work area, as well as the department's total headcount.
 

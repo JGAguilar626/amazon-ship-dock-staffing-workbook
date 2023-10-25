@@ -1,3 +1,4 @@
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/6bc1b670-8ad4-46ca-9cb5-18471c7ac556" width="640" height="400"></div>
 
 # <div align="center">amazon-shipdock-staffing-workbook</div>
 This project consists of a Microsoft Excel workbook that can be used by Amazon Fulfillment Shipdock department leadership to plan and visualize labor allocation.

@@ -14,6 +14,7 @@ This project consists of an Excel (.xlsx) workbook with 4 worksheets.
 
 **TextOutputFormulas**: This hidden worksheet is where a lot of the magic happens. It contains formulas that sanitize user input and that are used by CleanTextSheet to filter-out irrelevant text.
 
+
 ## Project Aim
 - I started this project around September 2023, with the aim to 'git gud' at Excel.
 
@@ -29,6 +30,7 @@ However, after seeing the PAs calculate totals by hand, I decided to create and 
 
 Similarly, I noticed that the associates that help the PAs with staffing were typing roles and logins one-by-one, and then sending this information to other parties via messaging app. For example, they type: [Lanes 18-25: PG: brandon, WS: joseag, Supplies: estefania]. This is time-consuming and error-prone, which is why I decided to create and add a 3rd worksheet to the project. I named this worksheet CleanTextSheet, and it automatically gathers, cleans, and displays staffing information in a simple text format.
 
+
 ## Why it Matters
 Shipdock staffing is an anomaly, a challenge.
 
@@ -37,6 +39,7 @@ The department has over 30 roles in which an associate can be staffed in. Other 
 ***This workbook has the potential to revolutionize the Shipdock staffing workflow***, the potential to help labor planners achieve a Bach-like performance. This workbook has the tools to assist PAs, the department's conductors, in producing a beautiful symphony of associate movement across dispersed work areas. This workbook helps PAs hit every single staffing note, for with this workbook they can easily reference, save and share important staffing information even when they are physically distant from the whiteboard.
 
 This workbook makes it possible to update staffing roles based on business needs. When the physical board becomes outdated (due to roles being added and/or removed) or damaged to the point where it's no longer usable, I can use the skills that I gained while working on this project to create an updated template, and then suggest that the template be printed on a new, physical whiteboard.
+
 
 ## Technologies, Set-Up, and Configuration
 

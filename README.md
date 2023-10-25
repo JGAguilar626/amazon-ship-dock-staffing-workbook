@@ -50,7 +50,7 @@ This workbook makes it possible to update staffing roles based on business needs
 In the GO-CART / NON-INVENTORY section:\
 Enter a dock door number into the following cells: AO44:AO47.\
 Enter a login into the following cells: AQ44:AQ47 and AS44:AS47 (GO-CART role).\
-Enter a login into the following cells: AO48, AQ48, and AS48 (EYT role).\
+Enter a login into the following cells: AO48, AQ48, and AS48 (EYT role).
 
 
 

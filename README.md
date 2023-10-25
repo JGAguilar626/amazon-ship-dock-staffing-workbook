@@ -11,7 +11,7 @@ This project consists of an Excel (.xlsx) workbook with 4 worksheets.
 
 **CleanTextSheet**: Like the name implies, this worksheet outputs the information entered on the two worksheets above in simple black-and-white text that's easy to read, save, and share.
 
-**TextOutputFormulas**: This hidden worksheet is where a lot of the magic happens. It contains formuals that sanitize user input and that are used by CleanTextSheet to filter-out irrelevant text.
+**TextOutputFormulas**: This hidden worksheet is where a lot of the magic happens. It contains formulas that sanitize user input and that are used by CleanTextSheet to filter-out irrelevant text.
 
 ## Project Aim
 - I started this project around September 2023, with the aim to 'git gud' at Excel.

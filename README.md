@@ -45,7 +45,7 @@ This workbook makes it possible to update staffing roles based on business needs
 
 
 ## Program Instructions
-**MainBoard**: Type in associate logins into select cells. My login is "joseag", so a PA would type "joseag" into, say, cell W26, which corresponds to the PG role for the EAST AR BELOW MEZZ (aka "Flats" area) LANES 18-25.
+**MainBoard**: Type in associate logins into select cells. My login is "joseag", so a PA would type "joseag" into, say, cell W26, which corresponds to the PG role for EAST AR BELOW MEZZ (aka "Flats" area) LANES 18-25.
 
 Within thet GO-CART / NON-INVENTORY section, type in a dock door number into any or all of the following cells: AO44:AO47. The following cells are meant for logins: AQ44:AQ47 and AS44:AS47. Cells AO48, AQ48, and AS48 are meant for logins as well, for associates placed in the EYT role.
 

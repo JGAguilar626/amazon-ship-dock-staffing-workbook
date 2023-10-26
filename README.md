@@ -53,7 +53,7 @@ Enter a login into the following cells: AQ44:AQ47 and AS44:AS47 (GO-CART role).\
 Enter a login into the following cells: AO48, AQ48, and AS48 (EYT role).
 
 Below is an example of what the section should look like:
-![Go Cart Non Inventory Example](https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/1eb5c545-3a9b-45af-a335-3f3f78495d24)
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/1eb5c545-3a9b-45af-a335-3f3f78495d24" width="340" height="100"></div>
 
 
 

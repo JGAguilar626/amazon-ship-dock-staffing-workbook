@@ -55,10 +55,11 @@ Enter a login into the following cells: AO48, AQ48, and AS48 (EYT role).
 Below is an example of what the section should look like:
 <div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/1eb5c545-3a9b-45af-a335-3f3f78495d24" width="340" height="200"></div>
 
+-----
 
-**(2) TotalsBoard**: This worksheet contains the MANUAL-ADD BABY-BOARD (I had fun with the name). This baby provides staffing flexibility and customization. Simply type in the name of the role ***AND*** the corresponding login, and the workbook will automatically update the headcount for the area. Any roles and logins entered here will also be displayed in the worksheet CleanTextSheet. Note that if an user enters a role but not its corresponding login, the worksheet will not increase the total (and CleanTextSheet won't display it). Also, don't type a colon after the role name, for the worksheet CleanTextSheet automatically does this for you. Below is an example of how the BABY-BOARD should be filled out.
+**(2) TotalsBoard**: This worksheet contains the MANUAL-ADD BABY-BOARD (I had fun with the name). This baby provides staffing flexibility and customization. Simply type in the name of the role ***AND*** the corresponding login, and the workbook will automatically update the headcount for the area. Any roles and logins entered here will also be displayed in the worksheet CleanTextSheet. Note that if an user enters a role but not its corresponding login, the worksheet will not increase the total (and CleanTextSheet won't display it). Also, don't type a colon after the role name, for the worksheet CleanTextSheet automatically does this for you. Below is an example of how the BABY-BOARD should be filled out, and a snip of how the chart that calculates department totals will look like.
 
-<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/a58c5413-9510-422c-aa10-fc2852d8b77b" width="480" height="270"></div>
+<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/a58c5413-9510-422c-aa10-fc2852d8b77b" width="480" height="270"></div> 
 
 
 

@@ -52,5 +52,9 @@ Enter a number into the following cells: AO44:AO47 (DOCK DOOR NUMBER).\
 Enter a login into the following cells: AQ44:AQ47 and AS44:AS47 (GO-CART role).\
 Enter a login into the following cells: AO48, AQ48, and AS48 (EYT role).
 
+Below is an example of what the section should look like:
+![Go Cart Non Inventory Example](https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/2d997a1c-da67-4c63-b225-322ddac59201)
+
+
 
 

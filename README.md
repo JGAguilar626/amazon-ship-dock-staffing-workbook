@@ -63,7 +63,7 @@ Below is an example of what the section should look like:
 
 -----
 
-**(3)CleanTextSheet**: Once you have completed worksheets MainBoard and TotalsBoard to your liking, navigate to the CleanTextSheet worksheet and:
+**(3) CleanTextSheet**: Once you have completed worksheets MainBoard and TotalsBoard to your liking, navigate to the CleanTextSheet worksheet and:
 - first, on the filter button located in cell A1
 - second, check the box for (Select All)
 - third, uncheck the box for the value 0 (located right under (Select All))

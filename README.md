@@ -8,9 +8,21 @@ This project consists of an Excel (.xlsx) workbook with 4 worksheets.
 
 **MainBoard**: This worksheet is the digital version of a real-life whiteboard-on-wheels that PAs use when assigning associates to their work area and role for the day. The physical whiteboard is used along with laminated, magnetic badges that each correspond to a specific associate. These badges are placed on a specific and clearly marked section of the whiteboard, depending on the area and role assigned. In this worksheet's digital staffing board, the user simply inputs associates' logins instead.
 
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/6bc1b670-8ad4-46ca-9cb5-18471c7ac556" width="640" height="400"></div>
+
+-----
+
 **TotalsBoard**: This worksheet calculates and displays the number of associates staffed per department work area, as well as the department's total headcount.
 
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/6de0ca6a-4b25-41d0-9ee2-1c52ddcf2429" width="640" height="400"></div>
+
+-----
+
 **CleanTextSheet**: Like the name implies, this worksheet outputs the information entered on the two worksheets above in simple black-and-white text that's easy to read, save, and share.
+
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/e2573906-18bf-4d98-b3f8-9852eeea1bf4" width="640" height="400"></div>
+
+-----
 
 **TextOutputFormulas**: This hidden worksheet is where a lot of the magic happens. It contains formulas that sanitize user input and that are used by CleanTextSheet to filter-out irrelevant text.
 

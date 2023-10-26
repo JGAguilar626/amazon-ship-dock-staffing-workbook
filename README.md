@@ -89,7 +89,7 @@ The image below shows how CleanTextSheet should output the data for the GO-CART 
 
 ## Features
 - I made stylistic improvements to the main board's layout. For example, I improved the WEST AR BELOW MEZZ and EAST AR BELOW MEZZ sections of the board by clearly separating the aisles into 4 groups. See Exhibit 1 below.
-- The physical board has a dead area, a column of blank cells, on its right edge. I turned this dead zone into a VTO zone (everybody secretely wishes they were staffed here all day, every day).
+- The physical board has a dead area, a column of blank cells, on its right edge. I turned this dead zone into a VTO zone (everybody secretely wishes they were staffed here all day, every day). See Exhibit 2 below.
 - I added a Notes section to the worksheet MainBoard. The note-taking area sits directly to the right of the digital board, facilitating the writing of memos and other important staffing information.
 - Added the current time (using =NOW()) to the left side of the digital board. Also on top of the Notes section.
 - In the worksheet TotalsBoard, users can see the total number of associates per work area and per area subgroup. For example, an user can see that EAST AR BELOW MEZZ LANES 18-25 has a total of, say, 3 associates staffed and that they are staffed as follows: 1 in the PG role, 1 in the Waterspider role, and 1 in the Supplies role.
@@ -104,6 +104,13 @@ The image below shows how CleanTextSheet should output the data for the GO-CART 
 I improved the WEST AR BELOW MEZZ and EAST AR BELOW MEZZ SECTIONS.
 
 <div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/e3720083-1924-4daf-bdf8-1c1fef5b6336" width="500" height="281"></div>
+
+-----
+
+***Exhibit 2***:
+Converted what appears to be a dead zone into a VTO zone.
+
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/f5fa8cc4-7f54-42aa-9f61-e2399dcde6a4" width="500" height="281"></div>
 
 
 

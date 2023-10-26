@@ -118,13 +118,6 @@ Below is a photograph of the real-life Shipdock staffing board.
 
 <div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/1f4b8a09-23f3-4784-938e-6d7062c7cfec" width="500" height="281"></div>
 
+Below is a photograph of my magnet.
 
-
-
-
-
-
-
-
-
-
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/f9f87deb-e70e-4e48-b500-c9abdcb7f3bf" width="500" height="281"></div>

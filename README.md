@@ -52,7 +52,7 @@ Enter a number into the following cells: AO44:AO47 (DOCK DOOR NUMBER).\
 Enter a login into the following cells: AQ44:AQ47 and AS44:AS47 (GO-CART role).\
 Enter a login into the following cells: AO48, AQ48, and AS48 (EYT role).
 
-Below is an example of what the section should look like:
+Below is an example of what the section should look like.
 <div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/1eb5c545-3a9b-45af-a335-3f3f78495d24" width="340" height="200"></div>
 
 -----
@@ -69,8 +69,13 @@ Below is an example of what the section should look like:
 - third, uncheck the box for the value 0 (located right under (Select All))
 - fourth, scroll all the way down and uncheck the box for (Blanks)
 - finally, click the OK button
-
 You should now be able to see all the logins and their corresponding roles.
+
+The image below shows how CleanTextSheet should output the data for the GO-CART / NON-INVENTORY group, assuming we input the same data as the image in one of our previous examples.
+<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/bf5a8c94-bd33-48a9-8b8c-2a7215f203c0" width="346" height="379"</div>
+
+
+
 
 
 

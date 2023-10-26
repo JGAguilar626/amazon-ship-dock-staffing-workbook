@@ -113,6 +113,13 @@ Converted what appears to be a dead zone into a VTO (Party) zone.
 <div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/f5fa8cc4-7f54-42aa-9f61-e2399dcde6a4" width="500" height="281"></div>
 
 
+## Misc.
+Below is a photograph of the real-life Shipdock staffing board.
+
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/1f4b8a09-23f3-4784-938e-6d7062c7cfec" width="500" height="281"></div>
+
+
+
 
 
 

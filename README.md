@@ -80,6 +80,7 @@ Below is an example of what the section should look like.
 - third, uncheck the box for the value 0 (located right under (Select All))
 - fourth, scroll all the way down and uncheck the box for (Blanks)
 - finally, click the OK button
+
 You should now be able to see all the logins and their corresponding roles.
 
 The image below shows how CleanTextSheet should output the data for the GO-CART / NON-INVENTORY group, assuming we input the same data as the image in one of our previous examples.

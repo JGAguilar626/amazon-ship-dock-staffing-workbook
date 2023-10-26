@@ -57,9 +57,23 @@ Below is an example of what the section should look like:
 
 -----
 
-**(2) TotalsBoard**: This worksheet contains the MANUAL-ADD BABY-BOARD (I had fun with the name). This baby provides staffing flexibility and customization. Simply type in the name of the role ***AND*** the corresponding login, and the workbook will automatically update the headcount for the area. Any roles and logins entered here will also be displayed in the worksheet CleanTextSheet. Note that if an user enters a role but not its corresponding login, the worksheet will not increase the total (and CleanTextSheet won't display it). Also, don't type a colon after the role name, for the worksheet CleanTextSheet automatically does this for you. Below is an example of how the BABY-BOARD should be filled out, and a snip of how the chart that calculates department totals will look like.
+**(2) TotalsBoard**: This worksheet contains the MANUAL-ADD BABY-BOARD (I had fun with the name). This baby provides staffing flexibility and customization. Simply type in the name of the role ***AND*** the corresponding login, and the workbook will automatically update the headcount for the area. Any roles and logins entered here will also be displayed in the worksheet CleanTextSheet. Note that if an user enters a role but not its corresponding login, the worksheet will not increase the total (and CleanTextSheet won't display it). Also, don't type a colon after the role name, for the worksheet CleanTextSheet automatically does this for you. Below is an example of how the BABY-BOARD should be filled out.
 
-<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/a58c5413-9510-422c-aa10-fc2852d8b77b" width="480" height="270"></div> 
+<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/a58c5413-9510-422c-aa10-fc2852d8b77b" width="480" height="270"></div>
+
+-----
+
+**(3)CleanTextSheet**: Once you have completed worksheets MainBoard and TotalsBoard to your liking, navigate to the CleanTextSheet worksheet and:
+- first, on the filter button located in cell A1
+- second, check the box for (Select All)
+- third, uncheck the box for the value 0 (located right under (Select All))
+- fourth, scroll all the way down and uncheck the box for (Blanks)
+- finally, click the OK button
+
+You should now be able to see all the logins and their corresponding roles.
+
+
+
 
 
 

@@ -55,9 +55,6 @@ The department has over 30 roles in which an associate can be staffed in. Other 
 This workbook makes it possible to update staffing roles based on business needs. When the physical board becomes outdated (due to roles being added and/or removed) or damaged to the point where it's no longer usable, I can use the skills that I gained while working on this project to create an updated template, and then suggest that the template be printed on a new, physical whiteboard.
 
 
-## Technologies, Set-Up, and Configuration
-
-
 ## Program Instructions
 **(1) MainBoard**: Type in associate logins into select cells. My login is "joseag", so a PA would type "joseag" into, say, cell W26, which corresponds to the PG role for EAST AR BELOW MEZZ (aka "Flats" area) LANES 18-25.
 
@@ -89,6 +86,12 @@ The image below shows how CleanTextSheet should output the data for the GO-CART 
 <div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/bf5a8c94-bd33-48a9-8b8c-2a7215f203c0" width="274" height="300"</div>
 
 
+## Features
+- I made stylistic improvements to the main board's layout. For example, I improved the WEST AR BELOW MEZZ and EAST AR BELOW MEZZ sections of the board by clearly separating the aisles into 4 groups.
+- The physical board has a dead area, a column of blank cells, on its right edge. I turned this dead zone into a VTO zone.
+- I added a Notes section to the worksheet MainBoard. The note-taking area sits directly to the right of the digital board, facilitating the writing of memos and other important staffing information.
+- Added the current time (using =NOW()) to the left side of the digital board. Also on top of the Notes section.
+- 
 
 
 

@@ -26,6 +26,8 @@ This project consists of an Excel (.xlsx) workbook with 4 worksheets.
 
 **TextOutputFormulas**: This hidden worksheet is where a lot of the magic happens. It contains formulas that sanitize user input and that are used by CleanTextSheet to filter-out irrelevant text.
 
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/7eb98bef-56c4-4983-b24c-6fd05ca1a508" width="640" height="400"></div>
+
 
 ## Project Aim
 - I started this project around September 2023, with the aim to 'git gud' at Excel.

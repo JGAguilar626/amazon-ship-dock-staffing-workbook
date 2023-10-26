@@ -84,11 +84,11 @@ Below is an example of what the section should look like.
 You should now be able to see all the logins and their corresponding roles.
 
 The image below shows how CleanTextSheet should output the data for the GO-CART / NON-INVENTORY group, assuming we input the same data as the image in one of our previous examples.
-<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/bf5a8c94-bd33-48a9-8b8c-2a7215f203c0" width="274" height="300"</div>
+<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/bf5a8c94-bd33-48a9-8b8c-2a7215f203c0" width="274" height="300"></div>
 
 
 ## Features
-- I made stylistic improvements to the main board's layout. For example, I improved the WEST AR BELOW MEZZ and EAST AR BELOW MEZZ sections of the board by clearly separating the aisles into 4 groups.
+- I made stylistic improvements to the main board's layout. For example, I improved the WEST AR BELOW MEZZ and EAST AR BELOW MEZZ sections of the board by clearly separating the aisles into 4 groups. See Exhibit 1 below.
 - The physical board has a dead area, a column of blank cells, on its right edge. I turned this dead zone into a VTO zone (everybody secretely wishes they were staffed here all day, every day).
 - I added a Notes section to the worksheet MainBoard. The note-taking area sits directly to the right of the digital board, facilitating the writing of memos and other important staffing information.
 - Added the current time (using =NOW()) to the left side of the digital board. Also on top of the Notes section.
@@ -97,6 +97,17 @@ The image below shows how CleanTextSheet should output the data for the GO-CART 
 - The worksheet TotalsBoard features a chart(?)(Is this the best name for it?) that adds-up the total headcount accross all work areas and displays it in a "you-can't-miss-it-if-you-wanted-to" highlighter-yellow colored cell.
 - This workbook makes use of the almighty =TRIM() function to sanitize user input, preventing false-positives by eliminating useless whitespace.
 - I spent many hours merging and locking cells, which should help maintain worksheet integrity and data accuracy.
+
+-----
+
+***Exhibit 1***:
+I improved the WEST AR BELOW MEZZ AND EAST AR BELOW MEZZ SECTIONS.
+
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/e3720083-1924-4daf-bdf8-1c1fef5b6336" width="500" height="281"></div>
+
+
+
+
 
 
 

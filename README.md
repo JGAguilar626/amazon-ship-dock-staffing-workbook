@@ -1,14 +1,14 @@
-<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/6bc1b670-8ad4-46ca-9cb5-18471c7ac556" width="640" height="400"></div>
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/ba332fd3-22b8-41cd-8ed7-489cc3eb0267" width="640" height="400"></div>
 
-# <div align="center">amazon-shipdock-staffing-workbook</div>
-This project consists of a Microsoft Excel workbook that can be used by Amazon Fulfillment Shipdock department leadership to plan and visualize labor allocation.
+# <div align="center">amazon-ship-dock-staffing-workbook</div>
+This project consists of a Microsoft Excel workbook that can be used by Amazon Fulfillment Ship Dock department leadership to plan and visualize labor allocation.
 
 ## Project Description
 This project consists of an Excel (.xlsx) workbook with 4 worksheets.
 
 **MainBoard**: This worksheet is the digital version of a real-life whiteboard-on-wheels that PAs use when assigning associates to their work area and role for the day. The physical whiteboard is used along with laminated, magnetic badges that each correspond to a specific associate. These badges are placed on a specific and clearly marked section of the whiteboard, depending on the area and role assigned. In this worksheet's digital staffing board, the user simply inputs associates' logins instead.
 
-<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/6bc1b670-8ad4-46ca-9cb5-18471c7ac556" width="640" height="400"></div>
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/ba332fd3-22b8-41cd-8ed7-489cc3eb0267" width="640" height="400"></div>
 
 -----
 

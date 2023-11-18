@@ -4,7 +4,7 @@
 This project consists of a Microsoft Excel workbook that can be used by Amazon Fulfillment Ship Dock department leadership to plan and visualize labor allocation.
 
 ## Project Description
-This project consists of an Excel (.xlsx) workbook with 4 worksheets.
+This project consists of an Excel (.xlsx) workbook with 5 worksheets.
 
 **MainBoard**: This worksheet is the digital version of a real-life whiteboard-on-wheels that PAs use when assigning associates to their work area and role for the day. The physical whiteboard is used along with laminated, magnetic badges that each correspond to a specific associate. These badges are placed on a specific and clearly marked section of the whiteboard, depending on the area and role assigned. In this worksheet's digital staffing board, the user simply inputs associates' logins instead.
 
@@ -12,22 +12,27 @@ This project consists of an Excel (.xlsx) workbook with 4 worksheets.
 
 -----
 
-**TotalsBoard**: This worksheet calculates and displays the number of associates staffed per department work area, as well as the department's total headcount.
+**ManualAddBoard**: This worksheet provides 244 additional cells into which department labor planners can input customized roles and logins. Included in these 244 extra slots are 64 VTO slots.
 
-<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/6de0ca6a-4b25-41d0-9ee2-1c52ddcf2429" width="640" height="400"></div>
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/683e149e-efdf-494d-8dfc-9a4a839d6575" width="640" height="400"></div>
 
 -----
 
-**CleanTextSheet**: Like the name implies, this worksheet outputs the information entered on the two worksheets above in simple black-and-white text that's easy to read, save, and share.
+**TotalsBoard**: This worksheet calculates and displays the number of associates staffed per department work area, as well as the department's total headcount.
 
-<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/e2573906-18bf-4d98-b3f8-9852eeea1bf4" width="640" height="400"></div>
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/547147a0-a049-4669-a659-76525907e89e" width="640" height="400"></div>
+
+-----
+
+**CleanTextSheet**: Like the name implies, this worksheet outputs the information on the two worksheets above in simple black-and-white text that's easy to read, save, and share.
+
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/b51aef79-0d6a-48e0-9480-0bcafad1ca34" width="640" height="400"></div>
 
 -----
 
 **TextOutputFormulas**: This hidden worksheet is where a lot of the magic happens. It contains formulas that sanitize user input and that are used by CleanTextSheet to filter-out irrelevant text.
 
-<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/7eb98bef-56c4-4983-b24c-6fd05ca1a508" width="640" height="400"></div>
-
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/e79b9e83-e0f1-46e3-a439-6466059096ae" width="640" height="400"></div>
 
 ## Project Aim
 - I started this project around September 2023, with the aim to 'git gud' at Excel.
@@ -36,7 +41,7 @@ I decided to start learning Excel in May 2023, after I bombed a pre-interview Ex
 
 I know core Java really well, and a lot of the concepts, key words, and method names have analogues in Excel. I know that learning arrays, how to write complex functions, and how to automate tasks with VBA will come relatively easy given my programming background, which is why this project appealed to me; it focuses more on the visual/graphic design/UX side of Excel, which has no equivalent in Java. Merging cells, customizing their borders, aligning cell text, and giving columns/rows specific widths/heights are all skills that this project helped me learned well.
 
-- Another aim of this project was to create a digital staffing tool for SAN3's Shipdock leadership to use in conjunction with the physical whiteboard. ***This workbook is not meant to replace, but rather to supplement the physical board.***
+- Another aim of this project was to create a digital staffing tool for SAN3's Shipdock leadership to use in conjunction with, ***or as a replacement for,*** the physical whiteboard.
 
 Initially, this project consisted of only 1 worksheet: MainBoard, the digital counterpart of the physical whiteboard-on-wheels.
 
@@ -46,11 +51,11 @@ I also noticed that the associates that help the PAs with staffing were typing r
 
 
 ## Why it Matters
-Shipdock staffing is an anomaly, a challenge.
+Amazon Ship Dock staffing is an anomaly, a challenge.
 
 The department has over 30 roles in which an associate can be staffed in. Other departments have only a fraction of this amount. Thus, assigning work areas and roles, and modifying these assignments throughout the course of a 10-hour shift is the Amazon equivalent of conducting an orchestra.
 
-***This workbook has the potential to revolutionize the Shipdock staffing workflow***, the potential to help labor planners achieve a Bach-like performance. This workbook has the tools to assist PAs, the department's conductors, in producing a beautiful symphony of associate movement across dispersed work areas. This workbook helps PAs hit every single staffing note, for with this workbook they can easily reference, save and share important staffing information even when they are physically distant from the whiteboard.
+***This workbook has the potential to revolutionize the Ship Dock staffing workflow***, the potential to help labor planners achieve a Bach-like performance. This workbook has the tools to assist PAs, the department's conductors, in producing a beautiful symphony of associate movement across dispersed work areas. This workbook helps PAs hit every single staffing note, for with this workbook they can easily reference, save and share important staffing information even when they are physically distant from the whiteboard.
 
 This workbook makes it possible to update staffing roles based on business needs. When the physical board becomes outdated (due to roles being added and/or removed) or damaged to the point where it's no longer usable, I can use the skills that I gained while working on this project to create an updated template, and then suggest that the template be printed on a new, physical whiteboard.
 
@@ -75,11 +80,10 @@ Below is an example of what the section should look like.
 -----
 
 **(3) CleanTextSheet**: Once you have completed worksheets MainBoard and TotalsBoard to your liking, navigate to the CleanTextSheet worksheet and:
-- first, click on the filter button located in cell A1
+- first, click on the filter button located in cell A27
 - second, check the box for (Select All)
-- third, uncheck the box for the value 0 (located right under (Select All))
-- fourth, scroll all the way down and uncheck the box for (Blanks)
-- finally, click the OK button
+- third, scroll all the way down and uncheck the box for (Blanks)
+- fourth, click the OK button
 
 You should now be able to see all the logins and their corresponding roles.
 

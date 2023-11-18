@@ -121,7 +121,7 @@ I am working on a macro-enabled version of this workbook. Below are some of the 
 - Macros that record the day's staffing data. The macros will compare staffing information quarter by quarter and produce a document that highlights these changes.
 
 ## Misc.
-Below is a photograph of the real-life Shipdock staffing board.
+Below is a photograph of the real-life Amazon Ship Dock staffing board.
 
 <div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/1f4b8a09-23f3-4784-938e-6d7062c7cfec" width="500" height="281"></div>
 

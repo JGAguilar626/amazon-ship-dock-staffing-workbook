@@ -35,19 +35,17 @@ This project consists of an Excel (.xlsx) workbook with 5 worksheets.
 <div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/e79b9e83-e0f1-46e3-a439-6466059096ae" width="640" height="400"></div>
 
 ## Project Aim
-- I started this project around September 2023, with the aim to 'git gud' at Excel.
+- Help me git gud at Excel.
 
-I decided to start learning Excel in May 2023, after I bombed a pre-interview Excel/VBA assessment test that hit me by surprise. From May-September, I logged about 40 hours total, studying a little bit of everything. To this project, I dedicated about 50 hours, which means that in total I have less than 100 hours of Excel experience. Despite having limited experience, I was able to complete this unique and challenging project.
+I decided to start learning Excel in May 2023, after I bombed a pre-interview Excel/VBA assessment test that hit me by surprise. From May-September, I logged about 50 hours total, studying a little bit of everything. To this project, I have dedicated about 75-100 hours, which means that in total, I have about 150 hours of Excel experience. Nonetheless, I was able to complete this unique and challenging project.
+
+- Help me learn the visual/graphic design/UX side of Excel.
 
 I know core Java really well, and a lot of the concepts, key words, and method names have analogues in Excel. I know that learning arrays, how to write complex functions, and how to automate tasks with VBA will come relatively easy given my programming background, which is why this project appealed to me; it focuses more on the visual/graphic design/UX side of Excel, which has no equivalent in Java. Merging cells, customizing their borders, aligning cell text, and giving columns/rows specific widths/heights are all skills that this project helped me learned well.
 
-- Another aim of this project was to create a digital staffing tool for SAN3's Shipdock leadership to use in conjunction with, ***or as a replacement for,*** the physical whiteboard.
+- Create a digital staffing tool for SAN3's Ship Dock leadership to use in conjunction with, ***or as a replacement for,*** the physical whiteboard.
 
-Initially, this project consisted of only 1 worksheet: MainBoard, the digital counterpart of the physical whiteboard-on-wheels.
-
-However, after seeing the PAs calculate totals by hand, I decided to create and add a 2nd worksheet to the project. I named this worksheet TotalsBoard, and it automatically calculates and updates staffing numbers as PAs enter or delete associate logins.
-
-I also noticed that the associates that help the PAs with staffing were typing roles and logins one-by-one, and then sending this information to other parties via messaging app. For example, they type: [Lanes 18-25: PG: brandon, WS: joseag, Supplies: estefania]. This is time-consuming and error-prone, which is why I decided to create and add a 3rd worksheet to the project. I named this worksheet CleanTextSheet, and it automatically gathers, cleans, and displays staffing information in a simple text format.
+Initially, this project consisted of only 1 worksheet: MainBoard, the digital counterpart of the physical whiteboard-on-wheels. However, after seeing the PAs calculate totals by hand, I decided to create and add a 2nd worksheet to the project. I named this worksheet TotalsBoard, and it automatically calculates and updates staffing numbers as PAs enter or delete associate logins. I also noticed that the associates that help the PAs with staffing were typing roles and logins one-by-one, and then sending this information to other parties via messaging app. For example, they type: [Lanes 18-25: PG: brandon, WS: joseag, Supplies: estefania]. This is time-consuming and error-prone, which is why I decided to create and add a 3rd worksheet to the project. I named this worksheet CleanTextSheet, and it automatically gathers, cleans, and displays staffing information in a simple text format.
 
 
 ## Why it Matters

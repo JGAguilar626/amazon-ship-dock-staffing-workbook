@@ -92,7 +92,7 @@ The image below shows how CleanTextSheet should output the data for the GO-CART 
 - Added the current time (using =NOW()) to the left side of the digital board. Also on top of the Notes section.
 - In the worksheet TotalsBoard, users can see the total number of associates per work area and per area subgroup. For example, an user can see that EAST AR BELOW MEZZ LANES 18-25 has a total of, say, 3 associates staffed and that they are staffed as follows: 1 in the PG role, 1 in the Waterspider role, and 1 in the Supplies role.
 - The worksheet ManualAddBoard features the great MANUAL-ADD BOARD, into which planners can input roles that are not accounted for in the MainBoard worksheet.
-- The worksheet TotalsBoard features a chart(?)(Is this the best name for it?) that adds-up the total headcount accross all work areas and displays it in a "you-can't-miss-it-if-you-wanted-to" highlighter-yellow colored cell.
+- The worksheet TotalsBoard features an area that adds-up the total headcount accross all work areas and displays it in a "you-can't-miss-it-if-you-wanted-to" highlighter-yellow colored cell.
 - This workbook makes use of the almighty =TRIM() function to sanitize user input, preventing false-positives by eliminating useless whitespace.
 - I spent many hours merging and locking cells, which should help maintain worksheet integrity and data accuracy.
 

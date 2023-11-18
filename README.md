@@ -64,18 +64,12 @@ This workbook makes it possible to update staffing roles based on business needs
 **(1) MainBoard**: Type in associate logins into select cells. My login is "joseag", so a PA would type "joseag" into, say, cell W26, which corresponds to the PG role for EAST AR BELOW MEZZ (aka "Flats" area) LANES 18-25.
 
 In the GO-CART / NON-INVENTORY section:\
-Enter a number into the following cells: AO44:AO47 (DOCK DOOR NUMBER).\
-Enter a login into the following cells: AQ44:AQ47 and AS44:AS47 (GO-CART role).\
-Enter a login into the following cells: AO48, AQ48, and AS48 (EYT role).
+Enter a number into the following cells: AO42:AO45 (DOCK DOOR NUMBER).\
+Enter a login into the following cells: AQ42:AQ45 and AS42:AS45 (GO-CART role).\
+Enter a login into the following cells: AO46, AQ46, and AS46 (EYT role).
 
 Below is an example of what the section should look like.
 <div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/1eb5c545-3a9b-45af-a335-3f3f78495d24" width="340" height="200"></div>
-
------
-
-**(2) TotalsBoard**: This worksheet contains the MANUAL-ADD BABY-BOARD (I had fun with the name). This baby provides staffing flexibility and customization. Simply type in the name of the role ***AND*** the corresponding login, and the workbook will automatically update the headcount for the area. Any roles and logins entered here will also be displayed in the worksheet CleanTextSheet. Note that if an user enters a role but not its corresponding login, the worksheet will not increase the total (and CleanTextSheet won't display it). Also, don't type a colon after the role name, for the worksheet CleanTextSheet automatically does this for you. Below is an example of how the BABY-BOARD should be filled out.
-
-<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/a58c5413-9510-422c-aa10-fc2852d8b77b" width="480" height="270"></div>
 
 -----
 
@@ -97,7 +91,7 @@ The image below shows how CleanTextSheet should output the data for the GO-CART 
 - I added a Notes section to the worksheet MainBoard. The note-taking area sits directly to the right of the digital board, facilitating the writing of memos and other important staffing information.
 - Added the current time (using =NOW()) to the left side of the digital board. Also on top of the Notes section.
 - In the worksheet TotalsBoard, users can see the total number of associates per work area and per area subgroup. For example, an user can see that EAST AR BELOW MEZZ LANES 18-25 has a total of, say, 3 associates staffed and that they are staffed as follows: 1 in the PG role, 1 in the Waterspider role, and 1 in the Supplies role.
-- The worksheet TotalsBoard features the great MANUAL-ADD BABY-BOARD, into which planners can input roles that are not accounted for in the MainBoard worksheet.
+- The worksheet ManualAddBoard features the great MANUAL-ADD BOARD, into which planners can input roles that are not accounted for in the MainBoard worksheet.
 - The worksheet TotalsBoard features a chart(?)(Is this the best name for it?) that adds-up the total headcount accross all work areas and displays it in a "you-can't-miss-it-if-you-wanted-to" highlighter-yellow colored cell.
 - This workbook makes use of the almighty =TRIM() function to sanitize user input, preventing false-positives by eliminating useless whitespace.
 - I spent many hours merging and locking cells, which should help maintain worksheet integrity and data accuracy.

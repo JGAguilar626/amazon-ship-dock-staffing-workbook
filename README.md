@@ -115,7 +115,7 @@ Converted what appears to be a dead zone into a VTO (Party) zone.
 I am working on a macro-enabled version of this workbook. Below are some of the features that I am working on.
 
 - Macros that clear all logins from both MainBoard and ManualAddBoard.
-- A macro that emails the text in CleanTextOutput to select personnel.
+- A macro that emails the text in CleanTextSheet to select personnel.
 - Adding an additional worksheet to store associate information, such as id, name, login, and permissions.
 - After adding the worksheet I mention above, I can include macros that do things such as check for incorrect or duplicate logins.
 - Macros that record the day's staffing data. The macros will compare staffing information quarter by quarter and produce a document that highlights these changes.

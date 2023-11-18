@@ -108,7 +108,7 @@ I improved the WEST AR BELOW MEZZ and EAST AR BELOW MEZZ SECTIONS.
 ***Exhibit 2***:
 Converted what appears to be a dead zone into a VTO (Party) zone.
 
-<div align="center"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/f5fa8cc4-7f54-42aa-9f61-e2399dcde6a4" width="500" height="281"></div>
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/6236db38-b94c-49d5-bdc4-335448a1d437" width="500" height="281"></div>
 
 
 ## Misc.

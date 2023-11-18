@@ -62,7 +62,7 @@ The department has over 30 roles in which an associate can be staffed in. Other 
 
 
 ## Program Instructions
-**(1) MainBoard**: Type in associate logins into select cells. My login is "joseag", so a PA would type "joseag" into, say, cell W26, which corresponds to the PG role for EAST AR BELOW MEZZ (aka "Flats" area) LANES 18-25.
+**MainBoard**: Type in associate logins into select cells. My login is "joseag", so a PA would type "joseag" into, say, cell W26, which corresponds to the PG role for EAST AR BELOW MEZZ (aka "Flats" area) LANES 18-25.
 
 In the GO-CART / NON-INVENTORY section:\
 Enter a number into the following cells: AO42:AO45 (DOCK DOOR NUMBER).\
@@ -74,7 +74,7 @@ Below is an example of what the section should look like.
 
 -----
 
-**(3) CleanTextSheet**: Once you have completed worksheets MainBoard and TotalsBoard to your liking, navigate to the CleanTextSheet worksheet and:
+**CleanTextSheet**: Once you have completed worksheets MainBoard and TotalsBoard to your liking, navigate to the CleanTextSheet worksheet and:
 - first, click on the filter button located in cell A27
 - second, check the box for (Select All)
 - third, scroll all the way down and uncheck the box for (Blanks)
@@ -110,6 +110,15 @@ Converted what appears to be a dead zone into a VTO (Party) zone.
 
 <div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/6236db38-b94c-49d5-bdc4-335448a1d437" width="500" height="281"></div>
 
+
+## Coming Soon
+I am working on a macro-enabled version of this workbook. Below are some of the features that I am working on.
+
+- Macros that clear all logins from both MainBoard and ManualAddBoard.
+- A macro that emails the text in CleanTextOutput to select personnel.
+- Adding an additional worksheet to store associate information, such as id, name, login, and permissions.
+- After adding the worksheet I mention above, I can include macros that do things such as check for incorrect or duplicate logins.
+- Macros that record the day's staffing data. The macros will compare staffing information quarter by quarter and produce a document that highlights these changes.
 
 ## Misc.
 Below is a photograph of the real-life Shipdock staffing board.

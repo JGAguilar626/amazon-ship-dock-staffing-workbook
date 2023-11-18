@@ -83,7 +83,7 @@ Below is an example of what the section should look like.
 You should now be able to see all the logins and their corresponding roles.
 
 The image below shows how CleanTextSheet should output the data for the GO-CART / NON-INVENTORY group, assuming we input the same data as the image in one of our previous examples.
-<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/bf5a8c94-bd33-48a9-8b8c-2a7215f203c0" width="274" height="300"></div>
+<div align="left"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/437fdce9-183f-4493-8eb5-31354299b151" width="274" height="300"></div>
 
 
 ## Features

@@ -34,6 +34,7 @@ This project consists of an Excel (.xlsx) workbook with 5 worksheets.
 
 <div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/e79b9e83-e0f1-46e3-a439-6466059096ae" width="640" height="400"></div>
 
+
 ## Project Aim
 - Help me git gud at Excel.
 
@@ -55,7 +56,9 @@ The department has over 30 roles in which an associate can be staffed in. Other 
 
 ***This workbook has the potential to revolutionize the Ship Dock staffing workflow***, the potential to help labor planners achieve a Bach-like performance. This workbook has the tools to assist PAs, the department's conductors, in producing a beautiful symphony of associate movement across dispersed work areas. This workbook helps PAs hit every single staffing note, for with this workbook they can easily reference, save and share important staffing information even when they are physically distant from the whiteboard.
 
-This workbook makes it possible to update staffing roles based on business needs. When the physical board becomes outdated (due to roles being added and/or removed) or damaged to the point where it's no longer usable, I can use the skills that I gained while working on this project to create an updated template, and then suggest that the template be printed on a new, physical whiteboard.
+***This workbook makes it possible to update staffing roles based on business needs.*** When the physical board becomes outdated (due to roles being added and/or removed) or damaged to the point where it's no longer usable, I can use the skills that I gained while working on this project to create an updated template, and then suggest that the template be printed on a new, physical whiteboard.
+
+***This workbook can replace the physical whiteboard altogether.*** Users can simply open this workbook on a laptop, and connect it to a large flat-screen television/display.
 
 
 ## Program Instructions

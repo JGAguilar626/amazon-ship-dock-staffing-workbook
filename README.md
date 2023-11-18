@@ -101,7 +101,7 @@ The image below shows how CleanTextSheet should output the data for the GO-CART 
 ***Exhibit 1***:
 I improved the WEST AR BELOW MEZZ and EAST AR BELOW MEZZ SECTIONS.
 
-<div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/a2cdc074-964f-4a9a-9d55-3b1fbf8d0180 width="550" height="310"></div>
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/e8e35ba0-dedf-4666-9890-ba2cdb3e5fd4" width="550" height="310"></div>
 
 -----
 

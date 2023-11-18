@@ -89,7 +89,7 @@ The image below shows how CleanTextSheet should output the data for the GO-CART 
 ## Features
 - I made stylistic improvements to the main board's layout. For example, I improved the WEST AR BELOW MEZZ and EAST AR BELOW MEZZ sections of the board by clearly separating the aisles into 4 groups. See Exhibit 1 below.
 - The physical board has a dead area, a column of blank cells, on its right edge. I turned this dead zone into a VTO zone (everybody secretely wishes they were staffed here all day, every day). See Exhibit 2 below.
-- Added the current time (using =NOW()) to the left side of the digital board. Also on top of the Notes section.
+- Added the current time (using =NOW( )) to the left side of the digital board. Also on top of the Notes section.
 - In the worksheet TotalsBoard, users can see the total number of associates per work area and per area subgroup. For example, an user can see that EAST AR BELOW MEZZ LANES 18-25 has a total of, say, 3 associates staffed and that they are staffed as follows: 1 in the PG role, 1 in the Waterspider role, and 1 in the Supplies role.
 - The worksheet ManualAddBoard features the great MANUAL-ADD BOARD, into which planners can input roles that are not accounted for in the MainBoard worksheet.
 - The worksheet TotalsBoard features an area that adds-up the total headcount accross all work areas and displays it in a "you-can't-miss-it-if-you-wanted-to" highlighter-yellow colored cell.

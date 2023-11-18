@@ -6,7 +6,7 @@ This project consists of a Microsoft Excel workbook that can be used by Amazon F
 ## Project Description
 This project consists of an Excel (.xlsx) workbook with 5 worksheets.
 
-**MainBoard**: This worksheet is the digital version of a real-life whiteboard-on-wheels that PAs use when assigning associates to their work area and role for the day. The physical whiteboard is used along with laminated, magnetic badges that each correspond to a specific associate. These badges are placed on a specific and clearly marked section of the whiteboard, depending on the area and role assigned. In this worksheet's digital staffing board, the user simply inputs associates' logins instead.
+**MainBoard**: This worksheet is the digital version of a real-life whiteboard-on-wheels that PAs use when assigning associates to their work area and role for the day. The physical whiteboard is used along with laminated, magnetic badges that each correspond to a specific associate. These badges are placed on a specific and clearly marked section of the whiteboard, depending on the area and role assigned. In this worksheet, the user simply inputs associates' logins instead.
 
 <div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/ba332fd3-22b8-41cd-8ed7-489cc3eb0267" width="640" height="400"></div>
 

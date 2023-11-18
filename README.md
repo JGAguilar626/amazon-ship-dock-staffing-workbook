@@ -12,7 +12,7 @@ This project consists of an Excel (.xlsx) workbook with 5 worksheets.
 
 -----
 
-**ManualAddBoard**: This worksheet provides 244 additional cells into which department labor planners can input customized roles and logins. Included in these 244 extra slots are 64 VTO slots.
+**ManualAddBoard**: This worksheet provides department labor planners the space for an additional 244 customized roles and logins. Included in these 244 extra slots are 64 VTO slots.
 
 <div align="center"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/683e149e-efdf-494d-8dfc-9a4a839d6575" width="640" height="400"></div>
 

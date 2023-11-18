@@ -70,7 +70,7 @@ Enter a login into the following cells: AQ42:AQ45 and AS42:AS45 (GO-CART role).\
 Enter a login into the following cells: AO46, AQ46, and AS46 (EYT role).
 
 Below is an example of what the section should look like.
-<div align="left"><img src="https://github.com/JGAguilar626/amazon-shipdock-staffing-workbook/assets/129235347/1eb5c545-3a9b-45af-a335-3f3f78495d24" width="340" height="200"></div>
+<div align="left"><img src="https://github.com/JGAguilar626/amazon-ship-dock-staffing-workbook/assets/129235347/d6280bde-b509-4d32-a486-6cf4df130bac" width="340" height="200"></div>
 
 -----
 
